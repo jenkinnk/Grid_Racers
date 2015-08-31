@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1386375212 source:c:\users\nicholas\google drive\odu documents\cs 250\project\computerplayer.cpp
+	<iostream>
+	<cmath>
+	"computerPlayer.h"
+
+1386378403 source:c:\users\nicholas\google drive\odu documents\cs 250\project\game.cpp
+	<iostream>
+	"game.h"
+
+1386379556 source:c:\users\nicholas\google drive\odu documents\cs 250\project\humanplayer.cpp
+	<iostream>
+	<cmath>
+	"humanPlayer.h"
+
+1386379876 source:c:\users\nicholas\google drive\odu documents\cs 250\project\player.cpp
+	<iostream>
+	"player.h"
+
+1386379876 c:\users\nicholas\google drive\odu documents\cs 250\project\player.h
+	<iostream>
+	"track.h"
+
+1386379876 c:\users\nicholas\google drive\odu documents\cs 250\project\track.h
+	<iostream>
+
+1386380947 c:\users\nicholas\google drive\odu documents\cs 250\project\game.h
+	<iostream>
+	"track.h"
+	"computerPlayer.h"
+	"humanPlayer.h"
+
+1385921071 c:\users\nicholas\google drive\odu documents\cs 250\project\datatypes.h
+	<iostream>
+	<string>
+
+1386365464 c:\users\nicholas\google drive\odu documents\cs 250\project\computerplayer.h
+	<iostream>
+	"player.h"
+
+1386353677 c:\users\nicholas\google drive\odu documents\cs 250\project\humanplayer.h
+	<iostream>
+	"player.h"
+
+1386379876 source:c:\users\nicholas\google drive\odu documents\cs 250\project\track.cpp
+	<iostream>
+	<string>
+	"track.h"
+	"player.h"
+
+1386379876 source:c:\users\nicholas\google drive\odu documents\cs 250\project\main.cpp
+	<iostream>
+	<fstream>
+	"game.h"
+

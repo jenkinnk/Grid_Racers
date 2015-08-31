@@ -1,0 +1,1163 @@
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x 1                    x
+xxxxxxx 2              xxx   x
+xxxxxx  3               x    x
+x                            x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (8,4) (0,0)
+2: (8,3) (0,0)
+3: (8,2) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x  1                   x
+xxxxxxx 2              xxx   x
+xxxxxx  3               x    x
+x                            x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,3) (0,0)
+Desired change in velocity: 
+Car 2 has bumped another car.
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x  1                   x
+xxxxxxx 2              xxx   x
+xxxxxx   3              x    x
+x                            x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (9,4) (1,0)
+2: (8,3) (0,0)
+3: (9,2) (1,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x  1                   x
+xxxxxxx                xxx   x
+xxxxxx  23              x    x
+x                            x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (9,4) (1,0)
+2: (8,2) (0,-1)
+3: (9,2) (1,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x       1              x
+xxxxxxx                xxx   x
+xxxxxx  2     3         x    x
+x                            x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,2) (0,-1)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x       1              x
+xxxxxxx                xxx   x
+xxxxxx        3         x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (14,4) (3,0)
+2: (8,1) (0,-1)
+3: (14,2) (3,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x           1          x
+xxxxxxx                xxx   x
+xxxxxx        3         x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,-1)
+Desired change in velocity: 
+Car 2 has struck a wall.
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x           1          x
+xxxxxxx                xxx   x
+xxxxxx            3     x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (18,4) (4,0)
+2: (8,1) (0,0)
+3: (18,2) (4,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x           1          x
+xxxxxxx                xxx   x
+xxxxxx            3     x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (18,4) (4,0)
+2: (8,1) (0,0)
+3: (18,2) (4,0)
+Car 3 has struck a wall.
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                     1x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                     1x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (28,4) (5,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Car 1 has struck a wall.
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                     1x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                     1x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (28,4) (0,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                     1x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (28,4) (0,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx 1x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx 1x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (28,7) (0,2)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x1 x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x1 x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (27,9) (-1,2)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x1 x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (27,9) (-1,2)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Car 1 has struck a wall.
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx 1  x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx 1  x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (26,12) (0,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx1   x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx1   x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (25,12) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx1   x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (25,12) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x1 x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x1 x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (24,10) (0,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx             1  x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx             1  x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (23,9) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx             1  x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (23,9) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Car 1 has struck a wall.
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx 1    x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx 1    x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (21,8) (0,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx1     x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx1     x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (20,8) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx1     x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (20,8) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx        1    x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx        1    x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (18,10) (-1,1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x 1     x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x 1     x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (17,11) (-1,1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x 1     x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (17,11) (-1,1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx     1       x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx     1       x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (15,10) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx    1           x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx    1           x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (14,9) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx    1           x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (14,9) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx 1              x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx 1              x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (11,9) (-2,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx1               x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx1               x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (10,9) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx1               x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (10,9) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx1            x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx1            x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (10,10) (0,1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx1    x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx1    x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (10,11) (0,1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx1    x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (10,11) (0,1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx   1     xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx   1     xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (8,12) (-1,0)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx     1xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx     1xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (7,11) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx     1xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (7,11) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x    1  xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x    1  xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (5,9) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x   1 xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x   1 xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (4,8) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+Desired change in velocity: 
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x   1 xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xFFFF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1: (4,8) (-1,-1)
+2: (8,1) (0,0)
+3: (22,3) (0,0)
+xxxxXxxxxXxxxxXxxxxXxxxxXxxxxX
+xxxxxx       xxxxx     xxx  xx
+xxxxx         xxx      xx    x
+xx      xx     x       x     x
+X       xx             x  x  x
+x       xx                x  x
+x     xxxxxxxxxxxxxx      x  x
+x     xxxxxxxxxxxxxxxxxxxxx  x
+xF1FF x xxxxxxxxxxxxxx       x
+XFFFF x xxxxxxxx             x
+x     x                      x
+xxxxxxx               3xxx   x
+xxxxxx                  x    x
+x       2                    x
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2: (8,1) (0,0)
+Desired change in velocity: 

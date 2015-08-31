@@ -1,0 +1,347 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X 1 X                                    FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X  2                                 FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (2,9) (0,0)
+2: (7,1) (0,0)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X  1X                                    FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X  2                                 FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (7,1) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X  1X                                    FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X   2                                FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (3,9) (1,0)
+2: (8,1) (1,0)
+3: (2,1) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X  1X                                    FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X    2                               FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (3,9) (1,0)
+2: (9,2) (1,1)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                                    FX
+X  1X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X    2                               FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (9,2) (1,1)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                                    FX
+X  1X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X          2                             FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (3,8) (0,-1)
+2: (11,3) (2,1)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                                    FX
+X   X                                    FX
+X   1                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X          2                             FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (11,3) (2,1)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                                    FX
+X   X                                    FX
+X   1                                    FX
+X                                        FX
+X            2                           FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (4,7) (1,-1)
+2: (13,5) (2,2)
+3: (2,1) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                                    FX
+X   X                                    FX
+X   1           2                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (4,7) (1,-1)
+2: (16,7) (3,2)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X                                    FX
+X   X                                    FX
+X               2                        FX
+X                                        FX
+X        1                               FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (16,7) (3,2)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X        1                               FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (9,5) (3,-1)
+2: (19,9) (3,2)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X            1                           FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (19,9) (3,2)
+Desired change in velocity: 
+Car 2 has struck a wall.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X            1                           FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (13,4) (4,-1)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X            1                           FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (13,4) (4,-1)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                1                   FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (19,9) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                1                   FX
+X 3 X                                    FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (21,2) (4,-1)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                    1               FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (19,9) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                    1               FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (25,1) (4,-1)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                    1               FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (25,1) (4,-1)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                             1      FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (19,9) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                             1      FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (34,1) (5,0)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                  1 FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (19,9) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                  1 FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (39,1) (5,0)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+Desired change in velocity: 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                  1 FX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1: (39,1) (5,0)
+2: (19,9) (0,0)
+3: (2,1) (0,0)
+Car 1 has struck a wall.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X              2                     FX
+X   X                                    FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X                                        FX
+X   X                                    FX
+X 3 X                                    1X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2: (19,9) (0,0)
+Desired change in velocity: 

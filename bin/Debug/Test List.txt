@@ -1,0 +1,12 @@
+Project.exe track1_test0.dat < track1_test0.in > output1_0.txt
+Project.exe track2_test0.dat < track2_test0.in > output2_0.txt
+Project.exe track2_test1.dat < track2_test1.in > output2_1.txt
+Project.exe track2_test2.dat < track2_test2.in > output2_2.txt
+Project.exe track2_test3.dat < track2_test3.in > output2_3.txt
+Project.exe track3_test0.dat < track3_test0.in > output3_0.txt
+Project.exe track4_test0.dat < track4_test0.in > output4_0.txt
+Project.exe track4_test1.dat < track4_test1.in > output4_1.txt
+Project.exe track5_test0.dat < track5_test0.in > output5_0.txt
+Project.exe track6_test0.dat < track6_test0.in > output6_0.txt
+Project.exe track7_test0.dat < track7_test0.in > output7_0.txt
+Project.exe track8_test0.dat < track8_test0.in > output8_0.txt

@@ -1,0 +1,44 @@
+XXXXXXXXXXX
+X      XFFX
+X      X  X
+X      X  X
+X  XXXX   X
+X1        X
+X2        X
+X3        X
+XXXXXXXXXXX
+1: (1,3) (0,0)
+2: (1,2) (0,0)
+3: (1,1) (0,0)
+XXXXXXXXXXX
+X      XFFX
+X      X  X
+X      X  X
+X  XXXX   X
+X 1       X
+X2        X
+X3        X
+XXXXXXXXXXX
+2: (1,2) (0,0)
+Desired change in velocity: XXXXXXXXXXX
+X      XFFX
+X      X  X
+X      X  X
+X  XXXX   X
+X 1       X
+X2        X
+X 3       X
+XXXXXXXXXXX
+1: (2,3) (1,0)
+2: (1,2) (0,0)
+3: (2,1) (1,0)
+Desired change in velocity: XXXXXXXXXXX
+X      XFFX
+X      X  X
+X      X  X
+X  XXXX   X
+X 1       X
+X2        X
+X 3       X
+XXXXXXXXXXX
+
